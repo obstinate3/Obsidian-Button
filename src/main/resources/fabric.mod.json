@@ -1,0 +1,13 @@
+{
+  "id": "obsidianbutton",
+  "name": "Obsidian Button",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "version": "${version}",
+  "side": "universal",
+  "initializers": [
+    "com.Obstinate_3.obsidianbutton.ObsidianButton"
+  ],
+  "requires": {
+    "fabric": "*"
+  }
+}
